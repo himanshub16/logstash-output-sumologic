@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = 'logstash-output-sumologic'
+  s.name          = 'hshek-logstash-output-sumologic'
   s.version       = '0.0.1'
   s.licenses      = ['Apache-2.0']
   s.summary       = 'Deliever the log to Sumo Logic cloud service.'
